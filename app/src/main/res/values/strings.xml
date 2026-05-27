@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalcWidget</string>
+    <string name="widget_name">Calculator Widget</string>
+    <string name="widget_description">Customizable calculator widget with 5 themes</string>
+</resources>
